@@ -21,7 +21,7 @@ go run hello.go
 1. 任意の Dockerfile を、`/.devcontainer`直下に作成します。
 2. `/.devcontainer/devcontainer.json`を編集します。
 
-```json
+```
   // ~~~ 省略 ~~~
 
   // imageの指定
